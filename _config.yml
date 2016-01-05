@@ -1,4 +1,5 @@
-name: Arcana
-description: Arcana template for Jekyll
+name: LatAm Startups
+description: Scaling startups in Latin America
 paginate: 10
-baseurl: '/Arcana-Jekyll-Theme'
+baseurl: #
+gems: [jekyll-paginate]
