@@ -2,7 +2,7 @@
 title: Ullamco Laboris minim veniam
 featured: /assets/images/pic01.jpg
 layout: post
-category: foo
+category: investors
 ---
 
 <ul class="links">
