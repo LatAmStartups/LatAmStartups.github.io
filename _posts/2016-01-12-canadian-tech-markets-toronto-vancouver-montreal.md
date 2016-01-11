@@ -6,7 +6,7 @@ category: training
 ---
 
 <p>
-So youve decided to scale in Canada. But where? Toronto? Vancouver? Montreal? leaders from the startup ecosystem will be joined us in this session.
+So youve decided to scale in Canada. But where? Toronto? Vancouver? Montreal? Leaders from each startup ecosystem will join us in this online webinar--free for the first ten people who register.
 </p>
 <!--more-->
 <p>
