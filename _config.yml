@@ -3,3 +3,5 @@ description: Scaling startups in Latin America
 paginate: 10
 baseurl: #
 gems: [jekyll-paginate]
+TZ: America/Toronto
+excerpt_separator: <!--more-->
