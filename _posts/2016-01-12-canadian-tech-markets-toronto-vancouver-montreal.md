@@ -1,6 +1,6 @@
 ---
 title: Canadian Tech Markets Toronto Vancouver Montreal 
-featured: /assets/images/dundas.jpg
+featured: /assets/images/flag.jpg
 layout: post
 category: training
 ---
