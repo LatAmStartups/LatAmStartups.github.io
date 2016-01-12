@@ -7,8 +7,11 @@
 								<section class="6u">
 									<h3>Conference News</h3>
 									<ul class="links">
-										<li><a href="#">Some blog post</a></li>
-										<li><a href="#">another featured blog post</a></li>
+	{% for post in site.categories.[training] offset: 0 limit: 3 %}
+		<li><a href="{{ site.baseurl }}{{ post.url }}">
+			{{ post.title }} foo bar baz
+		</a></li>
+	{% endfor %}
 										<li><a href="#">another featured blog post</a></li>
 										<li><a href="#">another featured blog post</a></li>
 									</ul>
@@ -54,7 +57,7 @@
 
 				<!-- Icons -->
 					<ul class="icons">
-						<li><a href="https://www.twitter.com/LatAmStartupsCo" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li id="#contactus"><a href="https://www.twitter.com/LatAmStartupsCo" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 						<li><a href="https://www.facebook.com/LatAm.Startups" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 						<li><a href="https://www.github.com/LatAmStartups" class="icon fa-github"><span class="label">GitHub</span></a></li>
 						<li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
