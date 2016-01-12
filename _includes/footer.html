@@ -7,29 +7,31 @@
 								<section class="6u">
 									<h3>Conference News</h3>
 									<ul class="links">
-	{% for post in site.categories.[training] offset: 0 limit: 3 %}
+	{% for post in site.categories.conference offset: 0 limit: 3 %}
 		<li><a href="{{ site.baseurl }}{{ post.url }}">
-			{{ post.title }} foo bar baz
+			{{ post.title }}
 		</a></li>
 	{% endfor %}
-										<li><a href="#">another featured blog post</a></li>
-										<li><a href="#">another featured blog post</a></li>
 									</ul>
 								</section>
 								<section class="6u">
 									<h3>Latino Hub News</h3>
 									<ul class="links">
-										<li><a href="#">Some blog post</a></li>
-										<li><a href="#">another featured blog post</a></li>
-										<li><a href="#">another featured blog post</a></li>
+	{% for post in site.categories.latinohub offset: 0 limit: 3 %}
+		<li><a href="{{ site.baseurl }}{{ post.url }}">
+			{{ post.title }}
+		</a></li>
+	{% endfor %}
 									</ul>
 								</section>
 								<section class="6u">
-									<h3>Have a White Paper. Or Three.</h3>
+									<h3>Training Sessions</h3>
 									<ul class="links">
-										<li><a href="#">Some blog post</a></li>
-										<li><a href="#">another featured blog post</a></li>
-										<li><a href="#">another featured blog post</a></li>
+	{% for post in site.categories.training offset: 0 limit: 3 %}
+		<li><a href="{{ site.baseurl }}{{ post.url }}">
+			{{ post.title }}
+		</a></li>
+	{% endfor %}
 									</ul>
 								</section>
 							</div>
