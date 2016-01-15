@@ -2,7 +2,6 @@
 title: Lorem Ipsum Dolor Sit Amet
 featured: /assets/images/pic03.jpg
 layout: post
-category: latinohub
 ---
 
 <p>Reprehenderit in voluptate velit esse cillum non proident, sunt in culpa qui officia  sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
