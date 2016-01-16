@@ -13,5 +13,5 @@ Latin American startups need the mentorship the Canadian startup ecosystem can p
 </p>
 <!--more-->
 <p>
-We're planning to rock this project big-time in 2016. To find out when we go live, Sign up for our newsletter!
+We're planning to rock this project big-time in 2016. To find out when we go live, <a href="#join-the-movement>sign up for our newsletter!</a>
 </p>
