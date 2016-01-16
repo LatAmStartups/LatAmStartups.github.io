@@ -13,5 +13,5 @@ Latin America boasts world-class startups that struggle due to lack of mentorshi
 </p>
 <!--more-->
 <p>
-Want to find out more? Here at LatAm Startups, our goal is to connect the Canadian and LatAm startup ecosystems so that everyone makes more money. <a href="#join-the-movement>Sign up for our newsletter today!</a>
+Want to find out more? Here at LatAm Startups, our goal is to connect the Canadian and LatAm startup ecosystems so that everyone makes more money. <a href="#join-the-movement">Sign up for our newsletter today!</a>
 </p>
