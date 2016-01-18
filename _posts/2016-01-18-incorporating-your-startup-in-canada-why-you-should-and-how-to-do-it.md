@@ -1,5 +1,5 @@
 ---
-title: Incorporating your startup in CanadaWhy You Should, and How to Do It
+title: Incorporating your startup in Canada -- Why You Should, and How to Do It
 featured: /assets/images/incorporation_small.jpg
 layout: post
 category: training
