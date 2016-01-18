@@ -1,6 +1,6 @@
 ---
 title: Canada's Startup Visa. Or Maybe Better: A Softlanding Program?
-featured: /assets/images/flag_small.jpg
+featured: /assets/images/softlanding_small.jpg
 layout: post
 category: training
 ---

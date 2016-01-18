@@ -1,5 +1,5 @@
 ---
-title: Featured LatAm Tech Market, Colombia
+title: Featured LatAm Tech Market
 featured: /assets/images/flag_small.jpg
 layout: post
 category: training
