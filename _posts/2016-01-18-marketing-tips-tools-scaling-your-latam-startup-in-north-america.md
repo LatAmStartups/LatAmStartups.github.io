@@ -1,6 +1,6 @@
 ---
 title: Marketing Tips and Tools to Scale Your LatAm Startup in North America
-featured: /assets/images/flag_small.jpg
+featured: /assets/images/rocket_small.jpg
 layout: post
 category: training
 ---

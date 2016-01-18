@@ -1,6 +1,6 @@
 ---
 title: Featured LatAm Tech Market, Argentina and Uruguay
-featured: /assets/images/flag_small.jpg
+featured: /assets/images/flor_small.jpg
 layout: post
 category: training
 ---
