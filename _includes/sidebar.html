@@ -1,7 +1,7 @@
 <div id="sidebar">
 
 	<!-- Sidebar -->
-	{% for post in site.categories.[page.category] offset: 0 limit: 2 %}
+	{% for post in site.categories.[page.category] offset: 0 limit: 3 %}
 		<section>
 			<h3>{{ post.title }}</h3>
 			<img src="{{ site.url }} {{ post.featured }}"/>
