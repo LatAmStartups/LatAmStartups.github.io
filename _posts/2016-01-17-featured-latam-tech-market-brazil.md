@@ -1,6 +1,6 @@
 ---
 title: Featured LatAm Tech Market, Brazil
-featured: /assets/images/Brazil_small.jpg
+featured: /assets/images/brazil_small.jpg
 layout: post
 category: training
 ---
