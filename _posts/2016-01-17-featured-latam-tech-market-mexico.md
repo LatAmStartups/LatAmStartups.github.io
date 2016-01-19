@@ -1,6 +1,6 @@
 ---
 title: Featured LatAm Tech Market, Mexico
-featured: /assets/images/flag_small.jpg
+featured: /assets/images/Mexico_small.jpg
 layout: post
 category: training
 ---
