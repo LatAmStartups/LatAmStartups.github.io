@@ -6,7 +6,7 @@ category: training
 ---
 
 <p>
-Every year in March, the <a href="http://www.gec.co/"Global Entrepreneurship Congress</a> gathers together thousands of entrepreneurs, investors, researchers, policymakers and other startup champions from more than 160 countries to identify new ways of helping founders start and scale new ventures around the world.
+Every year in March, the <a href="http://www.gec.co/">Global Entrepreneurship Congress</a> gathers together thousands of entrepreneurs, investors, researchers, policymakers and other startup champions from more than 160 countries to identify new ways of helping founders start and scale new ventures around the world.
 </p>
 <p>
 This year the GEC takes place in startup hotspot Medellin, Colombia.

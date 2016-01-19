@@ -11,7 +11,7 @@ The first thing you think of when Colombia comes to mind is probably not the cou
 </p>
 <!--more-->
 <p>
-Wednesday, 3 February 2016 at 12:00 PM | Wednesday, 17 February 2016 at 1:00 PM (EST) 
+Wednesday, 3 February 2016 at 12:00 PM (EST) 
 </p>
 <p>
 <a href="http://www.eventbrite.ca/e/featured-tech-latin-american-market-colombia-tickets-20704159699?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.ca/custombutton?eid=20704159699" alt="Eventbrite - Featured Tech Latin American Market: Colombia" /></a>

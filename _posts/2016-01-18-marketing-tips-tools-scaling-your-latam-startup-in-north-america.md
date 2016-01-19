@@ -6,7 +6,7 @@ category: training
 ---
 
 <p>
-TKTKTKTK
+Are you a Latin American startup? Want to scale in North America? In this webinar, we will give you the tools you need to begin that journey.
 </p>
 <!--more-->
 <p>
