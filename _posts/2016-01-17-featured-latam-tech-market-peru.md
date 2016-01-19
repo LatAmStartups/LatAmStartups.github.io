@@ -1,6 +1,6 @@
 ---
 title: Featured LatAm Tech Market, Peru
-featured: /assets/images/flag_small.jpg
+featured: /assets/images/peru_small.jpg
 layout: post
 category: training
 ---

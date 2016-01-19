@@ -1,6 +1,6 @@
 ---
 title: Featured LatAm Tech Market, Chile
-featured: /assets/images/flag_small.jpg
+featured: /assets/images/chile_small.jpg
 layout: post
 category: training
 ---
