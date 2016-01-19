@@ -6,7 +6,7 @@ category: training
 ---
 
 <p>
-Brazil is unique in Latin America, not just because they speak Portugeuse, but also because the way they do business differs significantly from their Spanish-speaking neighbors. Find more about the Brazilian tech sector, and investors and connectors in the ecosystem.
+Brazil is unique in Latin America, not just because they speak Portugeuse, but also because the way they do business differs significantly from their Spanish-speaking neighbors. Find out more about the Brazilian tech sector, and investors and connectors in the ecosystem.
 </p>
 <!--more-->
 <p>

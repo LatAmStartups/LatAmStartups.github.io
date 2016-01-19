@@ -6,7 +6,7 @@ category: training
 ---
 
 <p>
-Uruguay and Argentina are very similar countries in terms of language, food and culture. In terms of business and economy, however, they are very different. Find how Argentina and Uruguay are developing technology and a strong startup ecosystem to expand your business into Latin America.
+Uruguay and Argentina are similar countries in terms of language, food and culture. In terms of business and economy, however, they are very different. Find out how Argentina and Uruguay are developing strong startup ecosystems&mdash;and how to expand your business into Latin America.
 </p>
 <!--more-->
 <p>

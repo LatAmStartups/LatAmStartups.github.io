@@ -6,7 +6,7 @@ category: training
 ---
 
 <p>
-Mexico has its own, very particular culture. The country is not similar to any other in the region. Find more about the Mexican tech sector, and how to scale your startup in this enormous market.
+Mexico has its own, very particular culture. The country is not similar to any other in the region. Find out more about the Mexican tech sector, and how to scale your startup in this enormous market.
 </p>
 <!--more-->
 <p>

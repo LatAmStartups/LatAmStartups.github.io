@@ -6,7 +6,7 @@ category: training
 ---
 
 <p>
-Chile is one of the most mature economies in Latin America. Santiago is a well-organized city with good public transport. Find more about the Chilean tech sector, and investors and connectors in the ecosystem
+Chile is one of the most mature economies in Latin America. Santiago is a well-organized city with good public transport. Find out more about the Chilean tech sector, and investors and connectors in the ecosystem.
 </p>
 <!--more-->
 <p>

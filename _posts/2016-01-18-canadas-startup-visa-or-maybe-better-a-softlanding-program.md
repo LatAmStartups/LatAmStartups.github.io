@@ -6,7 +6,7 @@ category: training
 ---
 
 <p>
-Canada has a Startup Visa program. Latin American startups should know about the benefits of this visa, but additionally Canada has also some cool softlanding programs. Let's talk with the experts and find more alternativas to reach North America.
+Canada has a Startup Visa program. Latin American startups should know about the benefits of this visa, but additionally Canada has also some cool softlanding programs. Let's talk with the experts and find out more alternativas to reach North America.
 
 </p>
 <!--more-->
