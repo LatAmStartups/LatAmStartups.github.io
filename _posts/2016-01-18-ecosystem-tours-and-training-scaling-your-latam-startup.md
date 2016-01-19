@@ -1,6 +1,6 @@
 ---
 title: Ecosytem Tours and Training -- Scaling Your LatAm Startup
-featured: /assets/images/flag_small.jpg
+featured: /assets/images/conference_small.jpg
 layout: post
 category: training
 ---

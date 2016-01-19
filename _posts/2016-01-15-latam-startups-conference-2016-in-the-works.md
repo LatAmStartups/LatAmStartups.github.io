@@ -1,6 +1,6 @@
 ---
 title: LatAm Startups Conf 2016 In the Works!
-featured: /assets/images/logo_small.jpg
+featured: /assets/images/conference_small.jpg
 layout: post
 category: conference
 ---

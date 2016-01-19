@@ -1,6 +1,6 @@
 ---
 title: Partner With Angels in Latin America
-featured: /assets/images/logo_small.jpg
+featured: /assets/images/investors_small.jpg
 layout: post
 category: investors
 ---

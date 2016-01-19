@@ -1,6 +1,6 @@
 ---
 title: Global Entrepreneurship Congress, Medellin
-featured: /assets/images/flag_small.jpg
+featured: /assets/images/gec_small.jpg
 layout: post
 category: training
 ---
