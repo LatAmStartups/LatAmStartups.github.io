@@ -1,6 +1,6 @@
 ---
 title: Canadian Tech Markets &mdash; Which Is Right For You?
-featured: /assets/images/flag_small.jpg
+featured: /assets/images/canadiantechcities.png
 layout: post
 category: training
 ---
