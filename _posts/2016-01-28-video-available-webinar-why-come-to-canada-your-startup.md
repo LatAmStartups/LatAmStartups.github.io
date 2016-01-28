@@ -1,6 +1,6 @@
 ---
 title: Watch the Video from Our "Why Come to Canada" Webinar
-featured: https://img.youtube.com/vi/5XSnMvaTR3o/mqdefault.jpg
+featured: https://img.youtube.com/vi/5XSnMvaTR3o/0.jpg
 layout: post
 category: training
 youtubeId: 5XSnMvaTR3o
