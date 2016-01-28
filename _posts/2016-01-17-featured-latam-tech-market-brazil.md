@@ -13,5 +13,5 @@ Brazil is unique in Latin America, not just because they speak Portugeuse, but a
 Wednesday, 8 June 2016 at 12:00 PM - Wednesday, 22 June 2016 at 1:00 PM (EDT)
 </p>
 <p>
-<a href="http://www.eventbrite.ca/e/featured-tech-latin-american-market-brazil-tickets-20707625064?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.ca/custombutton?eid=20707625064" alt="Eventbrite - Featured Tech Latin American Market: Brazil" /></a>
+<a href="https://www.eventbrite.ca/e/featured-tech-latin-american-market-brazil-tickets-20707625064?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.ca/custombutton?eid=20707625064" alt="Eventbrite - Featured Tech Latin American Market: Brazil" /></a>
 </p>

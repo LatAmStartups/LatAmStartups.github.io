@@ -13,5 +13,5 @@ Mexico has its own, very particular culture. The country is not similar to any o
 Wednesday, 4 May 2016 from 12:00 PM to 1:00 PM (EDT)
 </p>
 <p>
-<a href="http://www.eventbrite.ca/e/featured-tech-latin-american-market-mexico-tickets-20706744430?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.ca/custombutton?eid=20706744430" alt="Eventbrite - Featured Tech Latin American Market: Mexico" /></a>
+<a href="https://www.eventbrite.ca/e/featured-tech-latin-american-market-mexico-tickets-20706744430?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.ca/custombutton?eid=20706744430" alt="Eventbrite - Featured Tech Latin American Market: Mexico" /></a>
 </p>

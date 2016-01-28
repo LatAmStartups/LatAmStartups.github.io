@@ -13,5 +13,5 @@ Peru is booming. And not just tourism, either&mdash;the high-tech sector is set 
 Wednesday, 9 March 2016 at 12:00 PM (EST)
 </p>
 <p>
-<a href="http://www.eventbrite.ca/e/featured-tech-latin-american-market-peru-tickets-20704998207?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.ca/custombutton?eid=20704998207" alt="Eventbrite - Featured Tech Latin American Market: Peru" /></a>
+<a href="https://www.eventbrite.ca/e/featured-tech-latin-american-market-peru-tickets-20704998207?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.ca/custombutton?eid=20704998207" alt="Eventbrite - Featured Tech Latin American Market: Peru" /></a>
 </p>

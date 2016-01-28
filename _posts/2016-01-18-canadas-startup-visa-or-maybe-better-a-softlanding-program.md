@@ -14,5 +14,5 @@ Canada has a Startup Visa program. Latin American startups should know about the
 Tuesday, 1 March 2016 from 12:00 PM to 1:00 PM (EST)
 </p>
 <p>
-<a href="http://www.eventbrite.ca/e/canadas-startup-visa-or-maybe-better-a-softlanding-program-tickets-20700776580?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.ca/custombutton?eid=20700776580" alt="Eventbrite - Canada&#39;s Startup Visa. Or Maybe better: a Softlanding Program?" /></a>
+<a href="https://www.eventbrite.ca/e/canadas-startup-visa-or-maybe-better-a-softlanding-program-tickets-20700776580?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.ca/custombutton?eid=20700776580" alt="Eventbrite - Canada&#39;s Startup Visa. Or Maybe better: a Softlanding Program?" /></a>
 </p>

@@ -16,5 +16,5 @@ Special training sessions are going to be organized for Latin American startups 
 Monday, 11 July 2016 at 8:00 AM - Thursday, 14 July 2016 at 6:00 PM (EDT)
 </p>
 <p>
-<a href="http://www.eventbrite.ca/e/scaling-up-to-north-america-ecosystem-tour-and-training-sessions-for-startups-ready-to-scale-tickets-20703093510?ref=ebtnebtckt" target="_blank"><img src="https://www.eventbrite.ca/custombutton?eid=20703093510" alt="Eventbrite - Scaling up to North America  Ecosystem tour and training sessions for startups ready to scale" /></a>
+<a href="https://www.eventbrite.ca/e/scaling-up-to-north-america-ecosystem-tour-and-training-sessions-for-startups-ready-to-scale-tickets-20703093510?ref=ebtnebtckt" target="_blank"><img src="https://www.eventbrite.ca/custombutton?eid=20703093510" alt="Eventbrite - Scaling up to North America  Ecosystem tour and training sessions for startups ready to scale" /></a>
 </p>

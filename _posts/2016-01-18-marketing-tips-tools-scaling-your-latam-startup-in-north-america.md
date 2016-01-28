@@ -13,5 +13,5 @@ Are you a Latin American startup? Want to scale in North America? In this webina
 Tuesday, 16 February 2016 from 12:00 PM to 1:00 PM (EST) 
 </p>
 <p>
-<a href="http://www.eventbrite.ca/e/marketing-tips-and-tools-to-scale-your-startup-in-north-america-tickets-20697168789?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.ca/custombutton?eid=20697168789" alt="Eventbrite - Marketing tips and tools to scale your startup in North America" /></a>
+<a href="https://www.eventbrite.ca/e/marketing-tips-and-tools-to-scale-your-startup-in-north-america-tickets-20697168789?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.ca/custombutton?eid=20697168789" alt="Eventbrite - Marketing tips and tools to scale your startup in North America" /></a>
 </p>
