@@ -11,5 +11,11 @@ The first of our free webinars is now live. LatAm Startups co-founder Miryam Laz
 </p>
 <!--more-->
 <p>
-{% include youtubePlayer.html id=post.youtubeId %}
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/5XSnMvaTR3o"
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
 </p>
