@@ -23,7 +23,7 @@ July 11-12 (Toronto/Waterloo) && July 14-15 (Montreal/Ottawa)
 </p>
 <pre>
 
-overview
+OVERVIEW
 
 July 11 -- Toronto
 July 12 -- Waterloo
