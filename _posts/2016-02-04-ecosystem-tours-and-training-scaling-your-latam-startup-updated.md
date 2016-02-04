@@ -13,7 +13,7 @@ Spaces are limited, and prices are designed with budget-savvy startups in mind. 
 </p>
 <!--more-->
 <p>
-July 11-12 (Toronto/Waterloo) && July 14-15 (Montreal/Ottawa)
+July 11-15 (Toronto/Waterloo) && (Montreal/Ottawa)
 </p>
 <p>
 <a href="https://www.eventbrite.ca/e/scaling-up-to-north-america-ecosystem-tour-and-training-sessions-for-startups-ready-to-scale-tickets-20703093510?ref=ebtnebtckt" target="_blank"><img src="https://www.eventbrite.ca/custombutton?eid=20703093510" alt="Eventbrite - Scaling up to North America  Ecosystem tour and training sessions for startups ready to scale" /></a>
