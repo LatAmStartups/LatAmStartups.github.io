@@ -58,7 +58,8 @@ Afternoon training session
 * Partnering with a Canadian company
 * Marketing with a Canadian twist
 
-Evening networking session sponsored by Startup Toronto
+Evening networking session sponsored
+by Startup Toronto
 * drinks!
 * meet Canadian startups and mentors!
 * balloons!
@@ -76,7 +77,8 @@ All-day tour in bus includes visits to:
 * Velocity Garage
 * Small Business Centre
 
-(note that Waterloo is a two-hour bus ride outside of Toronto.)
+(note that Waterloo is a two-hour bus ride
+outside of Toronto.)
 
 </pre>
 
@@ -85,8 +87,11 @@ All-day tour in bus includes visits to:
 </p>
 
 <pre>
-Ride Canada's VIA Rail train to Ottawa (five hours) and spend the afternoon sight-seeing.
-The first two days will be intense--this is your chance to relax a bit.
+Ride Canada's VIA Rail train to Ottawa 
+(five hours) and spend the afternoon 
+sight-seeing.
+The first two days will be intense--this 
+is your chance to relax a bit.
 
 Includes:
 * Transportation in the city
@@ -101,13 +106,15 @@ July 14 (Ottawa)
 </strong>
 </p>
 <pre>
-Canada's capital is a hotbed of innovation, and our tour will visit:
+Canada's capital is a hotbed of innovation, 
+and our tour will visit:
 * Startup Canada
 * Hub Ottawa
 * Shopify
 * afternoon networking session
 
-In the early evening the tour will travel to Montreal (two hours by train).
+In the early evening the tour will travel
+to Montreal (two hours by train).
 
 </pre>
 <p>
