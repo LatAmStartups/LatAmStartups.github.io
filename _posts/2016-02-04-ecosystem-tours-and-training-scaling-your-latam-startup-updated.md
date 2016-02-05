@@ -25,7 +25,7 @@ Spaces are limited, and prices are designed with budget-savvy startups in mind. 
 <p>
 <strong>OVERVIEW</strong>
 </p>
-<ul type="circle">
+<ul>
 	<li>July 11 -- Toronto</li>
 	<li>July 12 -- Waterloo</li>
 	<li>July 13 -- travel by train to Ottawa, rest day</li>
@@ -60,9 +60,9 @@ Tour price includes local and inter-city transport, and lunch. It does not inclu
 <strong>Afternoon training session</strong>
 </p>
 <ul>
-	<li>TKTK subject</li>
 	<li>Incorporating your company in Canada</li>
 	<li>Partnering with a Canadian company</li>
+	<li>Marketing with a Canadian twist</li>
 </ul>
 
 <strong>Evening networking session sponsored by Startup Toronto</strong>
@@ -75,12 +75,14 @@ Tour price includes local and inter-city transport, and lunch. It does not inclu
 
 <strong>July 12 (Waterloo)</strong>
 
-All-day tour in bus includes visits to:
-* Communitech
-* Accelerator Centre
-* Waterloo University (MBET)
-* Velocity Garage
-* Small Business Centre
+<strong>All-day tour in bus includes visits to:</strong>
+<ul>
+	<li>Communitech</li>
+	<li>Accelerator Centre</li>
+	<li>Waterloo University (MBET)</li>
+	<li>Velocity Garage</li>
+	<li>Small Business Centre</li>
+</ul>
 
 (note that Waterloo is a two-hour bus ride outside of Toronto.)
 
