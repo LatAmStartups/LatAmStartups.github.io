@@ -18,9 +18,7 @@ Spaces are limited, and prices are designed with budget-savvy startups in mind. 
 <strong>Where:</strong> (Toronto/Waterloo) && (Montreal/Ottawa)
 </p>
 <p>
-<!--
 <a href="https://www.eventbrite.ca/e/scaling-up-to-north-america-ecosystem-tour-and-training-sessions-for-startups-ready-to-scale-tickets-20703093510?ref=ebtnebtckt" target="_blank"><img src="https://www.eventbrite.ca/custombutton?eid=20703093510" alt="Eventbrite - Scaling up to North America  Ecosystem tour and training sessions for startups ready to scale" /></a>
--->
 </p>
 <p>
 <strong>OVERVIEW</strong>
@@ -123,7 +121,8 @@ July 15 (Montreal)
 </strong>
 </p>
 <pre>
-Don't worry if you don't speak French, Montreal is a bilingual city.
+Don't worry if you don't speak French, 
+Montreal is a bilingual city.
 Tour will visit:
 * Notman House
 * McGill University
@@ -141,6 +140,7 @@ July 16 -- end of tour
 </p>
 <pre>
 Tour includes return trip by train to Toronto.
+
 </pre>
 <p>
 <strong>
@@ -148,7 +148,5 @@ Want to know more? Send us an email: <a href="mailto:Contact@LatAmStartups.biz">
 </strong>
 </p>
 <p>
-<!--
 <a href="https://www.eventbrite.ca/e/scaling-up-to-north-america-ecosystem-tour-and-training-sessions-for-startups-ready-to-scale-tickets-20703093510?ref=ebtnebtckt" target="_blank"><img src="https://www.eventbrite.ca/custombutton?eid=20703093510" alt="Eventbrite - Scaling up to North America  Ecosystem tour and training sessions for startups ready to scale" /></a>
--->
 </p>
