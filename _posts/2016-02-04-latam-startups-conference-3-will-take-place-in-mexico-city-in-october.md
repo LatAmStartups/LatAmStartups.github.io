@@ -18,5 +18,8 @@ We are still in negotiations for the precise date, which will probably fall in t
 <p>
 Ticket prices and venue are still under wraps, but mark your calendars--October, 2016 is a go!
 <p>
-We will publish more details as soon as they are confirmed. <a href="#join-the-movement">Sign up to our newsletter</a> to be the first to know!
+We will publish more details as soon as they are confirmed.
+</p>
+<p>
+<a href="#join-the-movement">Sign up to our newsletter</a> to be the first to know!
 </p>
