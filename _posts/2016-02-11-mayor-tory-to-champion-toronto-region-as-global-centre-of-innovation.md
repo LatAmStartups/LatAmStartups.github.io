@@ -2,7 +2,7 @@
 title: Mayor Tory to champion Toronto region as global centre of innovation
 featured: /assets/images/logo_small.jpg
 layout: post
-category: startups
+category: latinohub
 ---
 
 <p>
