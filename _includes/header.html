@@ -35,11 +35,12 @@
 					<nav id="nav">
 						<ul>
 							{% assign current = page.url | downcase | split: '/' %}
-							<li {% if current[1] == 'index.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
-							<li {% if current[1] == 'conference.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/conference.html">Conference</a></li>
-							<li {% if current[1] == 'latino-hub.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/latino-hub.html">Latino Hub</a></li>
-							<li {% if current[1] == 'investors.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/investors.html">Investors</a></li>
-							<li {% if current[1] == 'training.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/training.html">Training</a></li>
+<li {% if current[1] == 'index.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
+<li {% if current[1] == 'conference.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/conference.html">Conference</a></li>
+<li {% if current[1] == 'latino-hub.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/latino-hub.html">Latino Hub</a></li>
+<li {% if current[1] == 'investors.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/investors.html">Investors</a></li>
+<li {% if current[1] == 'training.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/training.html">Training</a></li>
+<li {% if current[1] == 'blog' %}class="current"{% endif %}><a href="{{ site.baseurl }}/blog">Blog</a></li>
 						</ul>
 					</nav>
 
