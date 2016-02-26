@@ -22,7 +22,7 @@ The LatAm Startups Conference is the premier event connecting entrepreneurs, inv
 Dantus visited Canada for the LatAm Startups Conference in 2015 to deliver a keynote about the Mexican startup ecosystem. Dantus had the opportunity to meet the Governor General of Canada His Excellency David Johnston, as well key players from the Canadian startup ecosystem and the Latin American startup ecosystem.
 </p>
 <p>
-The LatAm Startups Conference will take place October 12-14, 2016. Investors and public policy officials from across the region will speak. The conference will also offer workshops for startups ready to scale into new markets, as well as an optional tour of the Mexican startup ecosystem, plua ample opportunities for networking.
+The LatAm Startups Conference will take place October 12-14, 2016. Investors and public policy officials from across the region will speak. The conference will also offer workshops for startups ready to scale into new markets, as well as an optional tour of the Mexican startup ecosystem, plus ample opportunities for networking.
 </p>
 <p>
 "Latin America has a lot of potential in the technology sector, and partnering with Canada will help the region find mutual ways of succeed in the global market," said Miryam Lazarte, co-founder of the LatAm Startups Conference. "By working together we can help startups scale into new markets."
