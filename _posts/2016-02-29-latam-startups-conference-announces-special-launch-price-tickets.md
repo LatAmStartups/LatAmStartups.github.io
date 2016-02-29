@@ -3,9 +3,9 @@ title: Special 3.0 Launch Tickets
 featured: /assets/images/tix.jpg
 layout: post
 category: conference
+date: 2016-02-29
 ---
 
-<h2>Tickets</h2>
 <p>To celebrate LatAm Startups Conf <strong>3.0</strong>, tickets go on sale on <strong>3/3</strong> at <strong>3pm</strong> (UTC) for <strong>$100</strong> each</p>
 <p>Only <strong>30</strong> tickets will be available at this special launch price &mdash; grab them quick, we expect to sell out fast!</p>
 
