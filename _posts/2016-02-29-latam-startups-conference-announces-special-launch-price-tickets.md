@@ -1,6 +1,6 @@
 ---
 title: Special 3.0 Launch Tickets
-featured: /assets/images/logo.jpg
+featured: /assets/images/tix.jpg
 layout: post
 category: conference
 ---
