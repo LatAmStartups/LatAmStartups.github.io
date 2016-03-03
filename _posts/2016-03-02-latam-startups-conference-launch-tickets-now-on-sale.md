@@ -3,7 +3,7 @@ title: Special 3.0 Launch Tickets
 layout: post
 featured: /assets/images/tix.jpg
 category: conference
-date: 2016-03-02
+date: 2016-03-03
 ---
 
 
