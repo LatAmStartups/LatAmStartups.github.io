@@ -3,7 +3,7 @@ title: Early Bird Tickets Now On Sale
 layout: post
 featured: /assets/images/tix.jpg
 category: conference
-date: 2016-03-03
+date: 2016-03-10
 ---
 
 <p>Early Bird tickets to the <strong>LatAm Startups Conf 3.0</strong> are now on sale.</p>
