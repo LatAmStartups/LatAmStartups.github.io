@@ -234,16 +234,33 @@ layout: defaultconf
 
 
 
-
-			<div class="row">
-				<section class="12u">
-					<h3></h3>
-					<div class="row">
-
-					</div>
-				</section>
-			</div>
 		</div>
 	</section>
 	
 	{% include cta-conf.html %}
+			<div class="row">
+				<section class="12u">
+					<div class="row">
+						<style>
+						    .google-maps {
+							position: relative;
+							padding-bottom: 75%; // This is the aspect ratio
+						        padding-top: 30px;
+							height: 100%;
+							width: 100%;
+							overflow: hidden;
+						    }
+						    .google-maps iframe {
+							position: absolute;
+							top: 0;
+							left: 0;
+							width: 100% !important;
+							height: 100% !important;
+						    }
+						</style>
+
+						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1881.0253508626809!2d-99.2009074!3d19.4533807!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d2020d4bb077e5%3A0xf127377e8b16c2a9!2sIgnacio+Allende+21%2C+Amp+Torre+Blanca%2C+11289+Ciudad+de+M%C3%A9xico%2C+D.F.%2C+Mexico!5e0!3m2!1sen!2sus!4v1464531899300" width="800" height="600" frameborder="0" style="border:0" allowfullscreen>&nbsp;</iframe>
+
+					</div>
+				</section>
+			</div>
