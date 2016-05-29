@@ -1,17 +1,21 @@
 ---
 title: Free Training Sessions for Canadian Startups
 layout: post
-featured: /assets/images/StartupCanadaEDCaward.jpg
+featured: /assets/images/LatAm101TorontoTrainingSessions.png
 category: training
 ---
 
 <p>
 Go South! Consulting, the folks who run LatAm Startups, will be holding free training sessions for Canadian high-tech companies that want to scale into the booming Latin American markets.
 </p>
+
+<p>
+The first training session will be held in Toronto on June 7, 2016 at MaRS in downtown Toronto--<a href="https://www.eventbrite.ca/e/latam-101-expanding-canadian-businesses-into-latin-american-markets-tickets-25687956369">grab your free ticket now on EventBrite</a>&mdash;seats will fill up fast!
+</p>
+
 <p>
 The training sessions are funded and supported by Startup Canada and Export Development Canada (EDC), and thus free for Canadian startups who wish to attend.
 </p>
-
 
 <p>
 Startup Canada wrote in their <a href="http://www.startupcan.ca/2016/05/startup-canada-edc-partner-local-organizations-increase-global-growth-opportunities-canadian-entrepreneurs/">official announcement</a>:
