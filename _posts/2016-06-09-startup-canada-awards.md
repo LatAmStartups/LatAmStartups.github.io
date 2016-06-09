@@ -1,40 +1,29 @@
 ---
-title: Calling all entrepreneurs!
+title: Startup Canada Awards
 layout: post
-featured: /assets/images/DayOnTheHill.jpg
-category: conference
+featured: /assets/images/StartupCanadaAwardsCallNominations.jpg
+category: awards
 ---
 
 <p>
-Couldn’t make it to that once-in-a-lifetime conference in Silicon Valley?
+2016 Startup Canada Awards Recognize Outstanding Achievements in Canadian Entrepreneurship!
 </p>
 
 <p>
-Startup Canada and LatAm Startups have you covered. Get your business cards ready!
+<a href="https://www.startupcan.ca/">Startup Canada</a> s now accepting nominations for the 2016 Startup Canada Awards.
 </p>
 
 <p>
-We’re inviting you to shake hands with Canada’s top entrepreneurs, innovators, investors, politicians, and government decision-makers at <a href="https://www.startupday.ca">Startup Canada Day on the Hill</a>. Instead of beefing up your Linkedin and attending countless networking events, we’re giving you the chance to meet with over 1,500 entrepreneurs and fellow business-visionaries in one shot.  You’ll walk away with cutting-edge insights from those working to build Canada into the innovation-nation of the future. It’s your opportunity to connect with leaders, receive invaluable mentorship advice, participate in policy hack-a-thons and pitch competitions, and connect with the who’s who of entrepreneurship and innovation during a Startup Soiree overlooking the iconic Parliament Hill.
+If you or someone you know is making Canada a better place to start and grow a business, whether it be through their support and promotion of entrepreneurship, or through their leadership as game-changing entrepreneurs, nominate them for the <a href="https://startupaward.ca/">Startup Canada Awards</a>!
+</p>
+
+<!--more-->
+<p>
+Past recipients of the Startup Canada Awards include the Hon. Paul Martin, founder of the Capital for <a href="https://www.capefund.ca/">Aboriginal Prosperity and Entrepreneurship (CAPE) Fund</a>, menswear brand <a href="https://ca.frankandoak.com/">Frank and Oak</a>, Natalie Dakers, President & CEO of <a href="https://www.accel-rx.com/"> Accel-Rx Health Sciences Accelerator</a> and Iain Klugman, CEO of <a href="https://www.communitech.ca/">Communitech</a>.
 </p>
 
 <p>
-<strong>
-The action happens at the Shaw Centre in Ottawa on May 5, 2016 from 9am&mdash;7.30pm. Register today at <a href="https://www.eventbrite.ca/e/startup-canada-day-on-the-hill-tickets-23115547224">www.startupday.ca</a> using promo code STARTUPDAY25 to receive 25% off your tickets!
-</strong>
+Find out more on the <a href="https://www.startupaward.ca/">Startup Awards website</a>. Deadline is July 20, 2016 at 11:59:59 pm ET.  Individuals and organizations can <a href="https://startupcanada.fluidreview.com/">self-nominate or nominate someone else</a> for the Startup Canada
+Awards!
 </p>
-
-Why attend?
-<ul>
-<li>* Connect with 1,500 entrepreneurs and leading anchor companies.</li>
-<li>* Gain valuable mentorship, inspiration and cutting-edge insights from Canada’s top entrepreneurs like Tony Lacavera, founder of Wind Mobile.</li>
-<li>* Contribute YOUR voice to the Government of Canada on creating the conditions for entrepreneurial success.</li>
-</ul>
-Pitch to win, get noticed and get plugged in.
-
-Find a mentor to champion you and be mentor to pay it forward.
-
-<strong>
-<a href="https://www.eventbrite.ca/e/startup-canada-day-on-the-hill-tickets-23115547224">JOIN US</a>!
-</strong> 
-
 
