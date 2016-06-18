@@ -1,5 +1,5 @@
 name: LatAm Startups
-description: Scaling startups in Latin America
+description: Scaling Latin American startups in Canada
 paginate: 10
 baseurl: #
 gems: [jekyll-paginate]
