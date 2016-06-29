@@ -1,5 +1,5 @@
 ---
-title: LatAm Startups Signs Memorandum of Understanding with ProMexico, Ryerson University's DMZ to Support international entrepreneurship program
+title: LatAm Startups Signs Memorandum of Understanding with ProMexico, Ryerson University's DMZ to Support International Entrepreneurship Program
 layout: post
 featured: /assets/images/mou.jpg
 category: latinohub
