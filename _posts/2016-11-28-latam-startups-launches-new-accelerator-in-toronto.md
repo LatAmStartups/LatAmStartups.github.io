@@ -24,7 +24,7 @@ Our experts will provide guidance on business development, intellectual property
 
 
 <p>
-Startups will be required to travel to Toronto and remain in residence for at least three of each four-month cohort term, at their own expense. Extensions will be possible for those who wish to remain, and the accelerator will help successful startups to remain in Canada under the Startup Visa program, where appropriate.
+Startups will be required to travel to Toronto and remain in residence for at least three of each four-month cohort term, at their own expense, including a small membership fee. Extensions will be possible for those who wish to remain, and the accelerator will help successful startups to remain in Canada under the Startup Visa program, where appropriate.
 </p>
 
 <p>
