@@ -47,7 +47,7 @@ An indie publishing platform for emerging writing, storytellers, and published a
 EnergyNow makes an IoT-based management solution for reducing power consumption, improving energy efficiency, and boosting profitability in factories. From Brazil.
 </p>
 
-<h3><a href ="https://www.GoMusic.la/">GoMusic</a></h3>
+<h3><a href ="http://www.GoMusic.la/">GoMusic</a></h3>
 
 <p>
 HD live-streaming of concerts and other events. From Argentina.
