@@ -7,8 +7,11 @@ category: latinohub
 <p>
 LatAm Hub Toronto is now accepting applications from Latin American startups for a three-month residency at our accelerator in Toronto. Applications will be considered on a rolling basis.
 </p>
+
 <!--more-->
-<h3>Go Global</h3>
+
+<p><strong>Go Global</strong></p>
+
 <p>
 Toronto is the best place for Latin American startups to scale.
 </p>
