@@ -32,7 +32,7 @@ Here's what some of our startups think:
 <p> "Canada is the future for tech companies willing to go global, this ecosystem is the best opportunity for companies like us coming from Latin America." &mdash;Wallace Santos, <a href="http://acanto.ca/">Acanto</a> </p>
 <h3>Apply Now</h3>
 <p>
-We evaluate aplications on a rolling basis. <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLN_44J3ZpgRt5TcGZLZyXYsNMx2Q_QI_RvVL9A2TtYNCJWA/viewform">Apply to join the cohort today!</a>
+We evaluate applications on a rolling basis. <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLN_44J3ZpgRt5TcGZLZyXYsNMx2Q_QI_RvVL9A2TtYNCJWA/viewform">Apply to join the cohort today!</a>
 </p>
 <p>
 Got questions? <a href="mailto:Contact@LatAmStartups.biz">Contact@LatAmStartups.biz</a>
