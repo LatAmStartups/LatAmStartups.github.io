@@ -35,7 +35,7 @@ Here's what some of our startups think:
 We evaluate applications on a rolling basis. <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLN_44J3ZpgRt5TcGZLZyXYsNMx2Q_QI_RvVL9A2TtYNCJWA/viewform">Apply to join the cohort today!</a>
 </p>
 <p>
-Got questions? <a href="mailto:Contact@LatAmStartups.biz">Contact@LatAmStartups.biz</a>
+Got questions? <a href="mailto:Contact@LatAmStartups.org">Contact@LatAmStartups.org</a>
 </p>
 <span class="image featured"><img src="{{ site.baseurl }}/assets/images/HubGroupShot.jpg" alt="" /></span>
 <p>
