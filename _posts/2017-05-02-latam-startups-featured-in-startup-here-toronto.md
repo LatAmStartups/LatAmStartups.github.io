@@ -74,3 +74,7 @@ Regions of Latin America have developed areas of expertise, they explain. For ex
 Porup and Lazarte believe they can improve the startup ecosystem in Latin America by holding up Toronto’s collaborative, cooperative network of incubators and accelerators as a model. “The culture is very much supportive,” says Porup. “It’s ‘how can we all win?’ not ‘how can I stab my competitor in the back?’”
 </p>
 
+<p>
+Source: <a href="http://startupheretoronto.com/location/toronto/latin-america-startups-helped-toronto-ecosystem/">StartUp Here Toronto</a>
+</p>
+
