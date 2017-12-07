@@ -2,7 +2,7 @@
 title: Seneca Helix accepts first Mexican Clean-Tech Startup
 
 layout: post
-featured: /assets/images/
+featured: /assets/images/LotusSenecaHelix.jpg
 category: latinohub
 ---
 
