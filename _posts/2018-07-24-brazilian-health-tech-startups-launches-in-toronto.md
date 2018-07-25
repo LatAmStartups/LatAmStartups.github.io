@@ -8,7 +8,7 @@ category: latinohub
 ---
 
 <p>
-Brazilian startup WW8 successfully launched their startup in Toronto, thanks to LatAm Startups.
+Brazilian startup WW8 successfully launched their startup in Toronto.
 </p>
 
 <p>
@@ -27,18 +27,14 @@ Diego joined LatAm Startups' spring 2018 cohort after successfully completing th
 "Going global is a challenge for any company. But when you are a small company from Latin America the challenge is even bigger. For us being part of the LatAm Startups Hub was the key point to really understand how this process could happen, Diego Correa says.
 </p>
 
-<p>
-Correa came to Toronto for just two weeks to get his feet wet with the LatAm Startups bootcamp, but decided to continue the process and become part of the softlanding cohort.
-</p>
-
 <!--more-->
 
 <p>
-"During three months we were prepared to absorb this new mindset learning the shortcuts to do business in North America. Several workshops, training sessions and mentoring were great, but the connections with the Toronto business ecosystem really opened the doors for our venture here in Canada," Correa says.
+"During three months we were prepared to absorb this new mindset learning the shortcuts to do business in North America. Several workshops, training sessions and mentoring were great, but the connections with the Toronto business ecosystem really opened the doors for our venture here in Canada," Correa adds.
 </p>
 
 <p>
-The three-month cohort ended with WW8 incorporating their business in Canada, pitching at the LatAm Startups Conf 5.0, and hiring Canadian employees.
+The three-month cohort ended with WW8 incorporating their business in Canada, pitching at the LatAm Startups Conf 5.0, and hiring local employees.
 </p>
 
 <p>
