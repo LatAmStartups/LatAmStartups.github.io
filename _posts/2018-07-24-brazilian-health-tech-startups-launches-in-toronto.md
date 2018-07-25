@@ -3,7 +3,7 @@ title: Brazilian Health Tech Startup Launches in Toronto
 
 
 layout: post
-featured: /assets/images/DiegoCorrea_foto.jpg
+featured: /assets/images/DiegoCorreafoto.jpg
 category: latinohub
 ---
 
