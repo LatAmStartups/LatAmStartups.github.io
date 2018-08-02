@@ -1,6 +1,5 @@
 ---
-title: Brazilian Health Tech Startup Launches in Toronto
-title: Mexican FinTech Startups Launches in Toronto
+title: Mexican FinTech Startup Launches in Toronto
 
 layout: post
 featured: /assets/images/VictorSalinas1.jpg
@@ -30,23 +29,18 @@ In September 2017, Salinas realized that his SmartCouncil software was growing m
 </p>
 
 <p>
-As SmartCouncil was developing in the market, Victor noticed he could launch a second startup, something that he experienced and know well. A transaction platform allowing students to receive money in a very efficient way through a virtual wallet. The niche for EasyTransfer will start with students from Mexico coming to Canada under the student visa, EasyTransfer projects to grow to the USA market in 2019, Europe and other local markets in Latin America in 2020.
+SmartCouncil was so successful in the Canadian market that Salinas launched a second product in Toronto--EasyTransfer, a virtual wallet that makes it easy for students in Latin America to receive money from home when studying abroad in Canada, the US, or Europe.
 </p>
 
 <p>
-EasyTransfer is a Canadian and Mexican company, he could launch in less than three months, understand the ecosystem and reach out experts in this area that are helping his company to get to the next level in a very short time.
-</p>
-
-<p>
-Victor has brought two of the products to the Canadian market through the LatAm Startups programs, finishing up with a special pitch presentation at LatAm Startups Conf 5.0
+Salinas was able to launch EasyTransfer in Cnada in less than three months because of the connections he built during his time at LatAm Startups. 
 </p>
 
 <p>
 <img src="/assets/images/VictorSalinas2.jpg" width=250 class=center alt="Victor Salinas"></img>
 </p>
 
-
 <p>
-“Bringing our product to Canada has been a good challenge for the company, but without the guidance and support from Latam Startups it couldn´t be possible. If you want to enter this market, you should talk with Latam Startups, to have a better chance to success”
+"Bringing our product to Canada has been a good challenge for the company, but without the guidance and support from Latam Startups it couldn´t be possible," Salinas says. "If you want to enter this market, you should talk with Latam Startups, to have a better chance to success."
 </p>
 
