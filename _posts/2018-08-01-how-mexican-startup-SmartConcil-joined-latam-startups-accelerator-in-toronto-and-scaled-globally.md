@@ -15,7 +15,7 @@ Salinas started Aiontech nine years ago in Mexico. The company today has 30 empl
 </p>
 
 <p>
-When the time came to scale globally last year, Victor chose Toronto because, unlike Silicon Valley, Toronto is a major global financial hub, home to most of Canada's largest banks, and the Canadian branches of global banks. Toronto is fertile ground for a fintech startup.
+When the time came to scale globally last year, Salinas chose Toronto because, unlike Silicon Valley, Toronto is a major global financial hub, home to most of Canada's largest banks, and the Canadian branches of global banks. Toronto is fertile ground for a fintech startup.
 </p>
 
 <!--more-->
