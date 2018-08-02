@@ -41,6 +41,6 @@ Salinas was able to launch EasyTransfer in Cnada in less than three months becau
 </p>
 
 <p>
-"Bringing our product to Canada has been a good challenge for the company, but without the guidance and support from Latam Startups it couldn´t be possible," Salinas says. "If you want to enter this market, you should talk with Latam Startups, to have a better chance to success."
+"Bringing our product to Canada has been a good challenge for the company, but without the guidance and support from Latam Startups it couldn't be possible," Salinas says. "If you want to enter this market, you should talk with Latam Startups, to have a better chance to success."
 </p>
 
