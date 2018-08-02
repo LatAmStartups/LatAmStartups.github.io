@@ -33,7 +33,7 @@ SmartCouncil was so successful in the Canadian market that Salinas launched a se
 </p>
 
 <p>
-Salinas was able to launch EasyTransfer in Cnada in less than three months because of the connections he built during his time at LatAm Startups. 
+Salinas was able to launch EasyTransfer in Canada in less than three months because of the connections he built during his time at LatAm Startups. 
 </p>
 
 <p>
