@@ -11,16 +11,16 @@ Sometimes you need a global team to scale globally.
 </p>
 
 <p>
-Brazilian Lucas Pinto is the founder of Cerbo. Or rather, one of the co-founders--the other three are from France, China, and the US.
+Brazilian Lucas Pinto is the founder of Cerbo. Or rather, one of the co-founders&mdash;the other three are from France, China, and the US.
 </p>
 
 <p>
-And Cerbo's co-founders decided to launch their startup not from the US, France, Brazil, or China, but from Canada. They chose the LatAm Startups acceleration program to scale their business globally.
+And Cerbo's co-founders decided to scale their startup from Toronto, using the LatAm Startups acceleration program as a springboard.
 </p>
 
 <!--more-->
 <p>
-Cerbo is passionate about online learning, and connecting students and teachers from around the world. 
+Cerbo is passionate about online learning, and connecting learners and instructors from around the world. 
 </p>
 
 <p>
@@ -34,7 +34,7 @@ Cerbo is passionate about online learning, and connecting students and teachers 
 </p>
 
 <p>
-Cerbo signed up for our two-week Scaleup Bootcamp Toronto, and applied to stay for the three-month softlanding program. During those three months, they learned how take advantage of Toronto as the ideal place to launch their startup globally, and have even hired local engineering talent.
+Cerbo signed up for our two-week Scaleup Bootcamp Toronto, and applied to stay for the three-month softlanding program. During those three months, they learned how take advantage of Toronto as the ideal place to launch their startup globally, and are in the process of hiring their first local employee, an engineer.
 </p>
 
 <p>
