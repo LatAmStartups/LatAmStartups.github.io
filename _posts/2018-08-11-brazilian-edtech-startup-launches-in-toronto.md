@@ -11,7 +11,7 @@ Sometimes you need a global team to scale globally.
 </p>
 
 <p>
-Brazilian Lucas Pinto is the founder of Cerbo. Or rather, one of the co-founders&mdash;the other three are from France, China, and the US.
+Brazilian Lucas Pinto is the founder of <a href="http://www.cerbo.me">Cerbo</a>. Or rather, one of the co-founders&mdash;the other three are from France, China, and the US.
 </p>
 
 <p>
@@ -20,7 +20,7 @@ And Cerbo's co-founders decided to scale their startup from Toronto, using the L
 
 <!--more-->
 <p>
-Cerbo is passionate about online learning, and connecting learners and instructors from around the world. 
+<a href="http://www.cerbo.me/">Cerbo</a> is passionate about online learning, and connecting learners and instructors from around the world. 
 </p>
 
 <p>
