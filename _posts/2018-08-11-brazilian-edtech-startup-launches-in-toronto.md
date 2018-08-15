@@ -2,7 +2,7 @@
 title: Brazilian EdTech Startup Launches in Toronto 
 
 layout: post
-featured: /assets/images/Cerbo1.jpg
+featured: /assets/images/Cerbo_group.jpg
 category: latinohub
 ---
 
@@ -11,7 +11,7 @@ Sometimes you need a global team to scale globally.
 </p>
 
 <p>
-Brazilian Lucas Pinto is the founder of <a href="http://www.cerbo.me">Cerbo</a>. Or rather, one of the co-founders&mdash;the other three are from France, China, and the US.
+Brazilian Lucas Pinto is the founder of <a href="http://www.cerbo.me">Cerbo</a>. Or rather, one of the co-founders&mdash;the other three are from France (Alexandre Schmitz), China (Anthony Liu), and the US (Justin McOmie).
 </p>
 
 <p>
@@ -43,6 +43,6 @@ Diversity is a strength for a Cerbo, and Toronto is the ideal place for them to 
 
 
 <p>
-<img src="/assets/images/Cerbo2.jpg" width=250 class=center alt="Cerbo"></img>
+<img src="/assets/images/Cerbo1.jpg" width=250 class=center alt="Cerbo"></img>
 </p>
 
