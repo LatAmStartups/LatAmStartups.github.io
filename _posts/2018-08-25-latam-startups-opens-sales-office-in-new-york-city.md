@@ -2,7 +2,7 @@
 title: LatAm Startups opens a sales office in New York City
 
 layout: post
-featured: /assets/images/LatAmStartupsNY.jpg
+featured: /assets/images/LatAmNY.jpg
 category: latinohub
 ---
 
