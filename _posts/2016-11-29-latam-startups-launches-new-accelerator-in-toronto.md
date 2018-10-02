@@ -44,6 +44,6 @@ If you're not sure, <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHHAVexKL
 </p>
 
 <p>
-Got questions? Email us: Contact@LatAmStartups.biz
+Got questions? Email us: Contact@LatAmStartups.org
 </p>
 

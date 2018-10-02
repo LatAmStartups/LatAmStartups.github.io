@@ -144,7 +144,7 @@ Tour includes return trip by train to Toronto.
 </pre>
 <p>
 <strong>
-Want to know more? Send us an email: <a href="mailto:Contact@LatAmStartups.biz">Contact@LatAmStartups.biz</a>
+Want to know more? Send us an email: <a href="mailto:Contact@LatAmStartups.org">Contact@LatAmStartups.org</a>
 </strong>
 </p>
 <p>

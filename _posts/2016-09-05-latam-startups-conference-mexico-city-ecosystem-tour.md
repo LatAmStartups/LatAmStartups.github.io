@@ -9,7 +9,7 @@ Mexico City has an amazing startup ecosystem! As part of the LatAm Startups Conf
 </p>
 
 <p>
-To apply, send us an email: <a href="mailto:Contact@LatAmStartups.biz">Contact@LatAmStartups.biz</a>
+To apply, send us an email: <a href="mailto:Contact@LatAmStartups.org">Contact@LatAmStartups.org</a>
 </p>
 
 <p>
