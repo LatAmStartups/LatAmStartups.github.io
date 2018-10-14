@@ -1,11 +1,11 @@
 ---
-title: LatAm Startups Alum Secures Investments and Canadian Startup Visa
+title: LatAm Startups Alum Secures Canadian Startup Visa Sponsor
 layout: post
 featured: /assets/images/ClicksitterFounders.jpg
 category: latinohub
 ---
 <p>
-LatAm Startups is pleased to announce that a graduate of our softlanding program has secured an investment letter and sponsor for a Canadian startup visa.
+LatAm Startups is pleased to announce that a graduate of our softlanding program has secured a Canadian Startup Visa sponsor with investment attached.
 </p>
 
 <p>
