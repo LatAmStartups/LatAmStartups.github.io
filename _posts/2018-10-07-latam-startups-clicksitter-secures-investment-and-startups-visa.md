@@ -5,15 +5,11 @@ featured: /assets/images/ClicksitterFounders.jpg
 category: latinohub
 ---
 <p>
-LatAm Startups is pleased to announce that a graduate of our softlanding program has secured investment and a Canadian startup visa.
+LatAm Startups is pleased to announce that a graduate of our softlanding program has secured an investment letter and sponsor for a Canadian startup visa.
 </p>
 
 <p>
 ClickSitter co-founders Luciana Pereira and Taric Andrade were part of the first LatAm Startups cohort in 2017.
-</p>
-
-<p>
-TK quote here -- "Thanks to LatAm Startups, we've now successfully established our startup in Canada. o algo asi"
 </p>
 
 <!--more-->
