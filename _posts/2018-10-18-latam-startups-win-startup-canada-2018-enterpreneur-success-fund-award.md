@@ -9,6 +9,10 @@ Today LatAm Startups received the Entrepreneur Success Fund Award 2018 from Star
 </p>
 
 <p>
+<img src="/assets/images/award1.jpg" width=250 class=left alt="LatAm Startups receives award"></img>
+</p>
+
+<p>
 LatAm Startups will use the award to host a two-week bootcamp to inspire newcomers to build new high-tech companies.
 </p>
 
