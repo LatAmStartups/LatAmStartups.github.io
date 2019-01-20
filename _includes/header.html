@@ -36,6 +36,13 @@
 						<ul>
 							{% assign current = page.url | downcase | split: '/' %}
 <li {% if current[1] == 'index.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
+							<li>
+								<a href="{{ site.baseurl }}/conference2019.html">Conference 2019</a>
+								<ul>
+									<li><a href="{{ site.baseurl }}/become-a-sponsor.html">Sponsors</a></li>
+									<li><a href="{{ site.baseurl }}/tickets.html">Tickets</a></li>
+								</ul>
+							</li>
 <li {% if current[1] == 'assets/pdfs/LatAmHubToronto_Program.pdf' %}class="current"{% endif %}><a href="{{ site.baseurl }}/assets/pdfs/LatAmHubToronto_Program.pdf">LatAm Hub Toronto</a>
 								<ul>
 									<a href="{{ site.baseurl }}/portfolio/startups.html">Portfolio</a>
