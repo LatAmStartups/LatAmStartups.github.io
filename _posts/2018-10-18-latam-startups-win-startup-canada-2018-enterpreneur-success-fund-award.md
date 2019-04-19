@@ -9,10 +9,6 @@ Today LatAm Startups received the Entrepreneur Success Fund Award 2018 from Star
 </p>
 
 <p>
-<img src="/assets/images/award1.jpg" width=250 class=left alt="LatAm Startups receives award"></img>
-</p>
-
-<p>
 LatAm Startups will use the award to host a two-week bootcamp to inspire newcomers to build new high-tech companies.
 </p>
 
@@ -28,6 +24,11 @@ More than 150 applications were submitted this year from across Canada.
 <p>
 The more than 150 applications from across Canada, were adjudicated by an esteemed and representatives including Nunzio Presta, CEO of BizON, Maria Locker, CEO of Mompreneur, Scott Bowman, Senior Director at Futurpreneur, and Emily Rose Antflick, Founder and Chief Community Cultivator at Shecosystem.
 </p>
+
+<p>
+<img src="/assets/images/award1.jpg" width=250 class=left alt="LatAm Startups receives award"></img>
+</p>
+
 
 <p>
 "I started Startup Canada to connect, unify and strengthen Canada’s entrepreneurship community; to unleash the entrepreneurial potential of individuals and our entire nation," said Victoria Lennox, CEO of Startup Canada.
