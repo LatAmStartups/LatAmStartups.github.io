@@ -1,5 +1,5 @@
 ---
-title: Peru Tech Ecoystem Facts and Trends
+title: Peru Tech Ecosystem Facts and Trends
 layout: post
 featured: /assets/images/PeruAirport.jpg
 category: conference
