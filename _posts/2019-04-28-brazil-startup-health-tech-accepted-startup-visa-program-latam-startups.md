@@ -38,7 +38,7 @@ Challenges
 </h2>
 
 <p>
-The country has high income value and the highest GDP per capita in Latin America, with US$ 16,639 in 2018. Since 2003, the economy has had positive growth rates averaging 4.1%. This has remained positive in 2017 and 2018, even during the recessions experienced by Argentina and Brazil, proving Uruguay’s economic independence from its main neighbours. Its macroeconomic policies and the government’s commitment to diversify its markets and products within its major agriculture and forestry sectors have increased the country’s ability to withstand regional shocks. In addition, Uruguay have a high income per capita and a low level of poverty.
+Athimos faced the same problem as 92% of businesses that expanded to Canada, which is the change of business model. The company’s enterprise licence-software business model has added SaaS services to better work with SMB, hence there are new factors to consider that did not exist while they were using the traditional model. Furthermore, as a new player in the market, Athimos have to first prove themselves in the foreign market.  However, the biggest challenge they have faced so far was regarding their residence status in Canada, to enable them and their families to work and stay in the country.
 </p>
 
 <p>
