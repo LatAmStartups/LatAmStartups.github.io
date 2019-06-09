@@ -1,5 +1,5 @@
 ---
-title: Scaleup Boot Camp S&atilde;o Paolo
+title: Scaleup Boot Camp S&atilde;o Paulo
 layout: post
 featured: /assets/images/Brazil_city_image.jpg
 category: conference
