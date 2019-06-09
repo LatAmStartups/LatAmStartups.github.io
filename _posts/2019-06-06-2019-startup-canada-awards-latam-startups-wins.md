@@ -1,5 +1,5 @@
 ---
-title: LatAm Startups Winds 2019 Startup Canada Award
+title: LatAm Startups Wins 2019 Startup Canada Award
 layout: post
 featured: /assets/images/StartupCanadaAwards2019.jpg
 category: conference
